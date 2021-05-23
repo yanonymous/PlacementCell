@@ -74,5 +74,5 @@ Thats all forks!
 (WIll upload all screenshots so you can see what it looks like)
 
 Credits to my team
-1. [@yanonymous](github.com/yanonymous)
-2. [@atcarry](github.com/atcarry)
+1. [@yanonymous](https://github.com/yanonymous)
+2. [@atcarry](https://github.com/atcarry)
