@@ -69,7 +69,7 @@ FIREWALL RULES ARE IMPORTANT!
 
 ![image](https://user-images.githubusercontent.com/31380824/119271380-e4e22a00-bc1e-11eb-8673-1ac54cd319ba.png)
 
-Thats all forks!
+Thats all folks!
 
 (WIll upload all screenshots so you can see what it looks like)
 
